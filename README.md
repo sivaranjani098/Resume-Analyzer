@@ -87,11 +87,12 @@ Run the application:
 ```bash
 streamlit run app.py
 ```
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 
-![Home Page](assets/home.png)
+![Home Page](<img width="1757" height="595" alt="home" src="https://github.com/user-attachments/assets/0c00b4f8-9936-45b7-a2a2-9ef378cf82cd" />
+)
 
 ### Resume Upload
 
