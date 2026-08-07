@@ -1,10 +1,10 @@
 # AI Resume Analyzer
 
-## 📌 Overview
+## Overview
 
 AI Resume Analyzer is an intelligent web application that evaluates resumes using Google's Gemini AI. The application analyzes resumes against a job description, identifies strengths and weaknesses, provides ATS-friendly suggestions, and generates an overall match score to help job seekers improve their resumes.
 
-## ✨ Features
+## Features
 
 * Upload resumes in PDF format.
 * Extract text from uploaded resumes.
@@ -16,7 +16,7 @@ AI Resume Analyzer is an intelligent web application that evaluates resumes usin
 * User-friendly web interface built with Streamlit.
 * AI-powered analysis using Google Gemini.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend:** Streamlit
 * **Backend:** Python
@@ -28,7 +28,7 @@ AI Resume Analyzer is an intelligent web application that evaluates resumes usin
   * Google Generative AI (Gemini)
   * python-dotenv
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Resume-Analyzer/
@@ -41,7 +41,7 @@ Resume-Analyzer/
 └── sample_resume.pdf
 ```
 
-## 🚀 How It Works
+## How It Works
 
 1. Upload your resume in PDF format.
 2. Enter the job description (optional but recommended).
@@ -56,7 +56,7 @@ Resume-Analyzer/
    * Weaknesses
    * Improvement Suggestions
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
@@ -87,8 +87,20 @@ Run the application:
 ```bash
 streamlit run app.py
 ```
+## 📸 Screenshots
 
-## 📈 Future Enhancements
+### Home Page
+
+![Home Page](assets/home.png)
+
+### Resume Upload
+
+![Resume Upload](assets/upload.png)
+
+### Analysis Result
+
+![Analysis Result](assets/analysis.png)
+## Future Enhancements
 
 * Support for DOCX resumes.
 * Resume grammar and spelling analysis.
@@ -98,7 +110,7 @@ streamlit run app.py
 * Resume improvement recommendations.
 * Resume template suggestions.
 
-## 💡 Use Cases
+## Use Cases
 
 * Students and fresh graduates.
 * Job seekers.
