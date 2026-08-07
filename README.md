@@ -91,16 +91,18 @@ streamlit run app.py
 
 ### Home Page
 
-![Home Page](<img width="1757" height="595" alt="home" src="https://github.com/user-attachments/assets/0c00b4f8-9936-45b7-a2a2-9ef378cf82cd" />
-)
+![Home Page](home.png)
 
 ### Resume Upload
 
-![Resume Upload](assets/upload.png)
+![Resume Upload](upload.png)
 
 ### Analysis Result
 
-![Analysis Result](assets/analysis.png)
+![Analysis Result](result1.png)
+![Analysis Result](result2.png)
+![Analysis Result](result3.png)
+
 ## Future Enhancements
 
 * Support for DOCX resumes.
