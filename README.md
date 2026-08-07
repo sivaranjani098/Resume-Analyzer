@@ -99,9 +99,9 @@ streamlit run app.py
 
 ### Analysis Result
 
-![Analysis Result](result1.png)
-![Analysis Result](result2.png)
-![Analysis Result](result3.png)
+![Analysis Result](result 1.png)
+![Analysis Result](result 2.png)
+![Analysis Result](result 3.png)
 
 ## Future Enhancements
 
